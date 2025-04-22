@@ -85,8 +85,4 @@ function reset(){
 
         
         
-//     </div>
-    
-//     <script src="new.js"></script>
-// </body>
-// </html>
+
